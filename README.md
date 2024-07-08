@@ -27,3 +27,7 @@ RIIR（Rewrite It In Rust），用 Rust 重写它。
 > 同类产品：Notion
 - deno：https://github.com/denoland/deno
 > 同类产品：Bun/Node.js
+- lapce：https://github.com/lapce/lapce
+> 同类产品：VS code
+- rudis：https://github.com/sleeprite/rudis
+> 同类产品：Redis
